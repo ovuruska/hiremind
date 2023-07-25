@@ -1,4 +1,4 @@
-# hiremind README
+# hiremind
 
 This is the README for your extension "hiremind". After writing up a brief description, we recommend including the following sections.
 
