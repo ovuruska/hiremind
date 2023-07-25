@@ -1,6 +1,6 @@
-# quicker-hiremind README
+# hiremind README
 
-This is the README for your extension "quicker-hiremind". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "hiremind". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
